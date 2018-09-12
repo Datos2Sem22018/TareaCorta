@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SistemaPizzas.dir/main.cpp.o CMakeFiles/SistemaPizzas.dir/Pizzas/pizzaPadre/pizzaPadre.cpp.o CMakeFiles/SistemaPizzas.dir/Pizzas/pizzaS/pizzaS.cpp.o CMakeFiles/SistemaPizzas.dir/Pizzas/pizzaV/pizzaV.cpp.o CMakeFiles/SistemaPizzas.dir/Pizzas/pizzaH/pizzaH.cpp.o CMakeFiles/SistemaPizzas.dir/Pizzas/pizzaJQ/pizzaJQ.cpp.o  -o SistemaPizzas 
