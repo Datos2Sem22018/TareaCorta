@@ -7,7 +7,7 @@
 
 
 void fnEcharAceitunas(){
-    int iTimer = 10;
+    int iTimer = 8;
     cout << "Agregando aceitunas";
     while (iTimer != 0){
         cout << ". "<<flush;
@@ -18,7 +18,7 @@ void fnEcharAceitunas(){
 }
 
 void fnEcharHongos(){
-    int iTimer = 10;
+    int iTimer = 8;
     cout << "Agregando Hongos";
     while (iTimer != 0){
         cout << ". "<<flush;
@@ -29,7 +29,7 @@ void fnEcharHongos(){
 }
 
 void fnEcharCebollayChile(){
-    int iTimer = 10;
+    int iTimer = 12;
     cout << "Agregando la Cebolla y el Chile";
     while (iTimer != 0){
         cout << ". "<<flush;

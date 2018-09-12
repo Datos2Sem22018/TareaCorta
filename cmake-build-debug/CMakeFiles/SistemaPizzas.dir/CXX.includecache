@@ -6,43 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaPadre/pizzaPadre.cpp
-pizzaPadre.h
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaPadre/pizzaPadre.h
+/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaJQ/pizzaJQ.cpp
+pizzaJQ.h
+/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaJQ/pizzaJQ.h
 unistd.h
 -
+
+/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaJQ/pizzaJQ.h
+../pizzaPadre/pizzaPadre.h
+/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaPadre/pizzaPadre.h
 
 /home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaPadre/pizzaPadre.h
 iostream
 -
-
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaS/pizzaS.cpp
-unistd.h
--
-pizzaS.h
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaS/pizzaS.h
-
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaS/pizzaS.h
-../pizzaPadre/pizzaPadre.h
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaPadre/pizzaPadre.h
-
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaV/pizzaV.cpp
-pizzaV.h
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaV/pizzaV.h
-unistd.h
--
-
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaV/pizzaV.h
-../pizzaPadre/pizzaPadre.h
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaPadre/pizzaPadre.h
-
-/home/mariano/CLionProjects/SistemaPizzas/main.cpp
-iostream
--
-Pizzas/pizzaPadre/pizzaPadre.h
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaPadre/pizzaPadre.h
-Pizzas/pizzaS/pizzaS.h
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaS/pizzaS.h
-Pizzas/pizzaV/pizzaV.h
-/home/mariano/CLionProjects/SistemaPizzas/Pizzas/pizzaV/pizzaV.h
 

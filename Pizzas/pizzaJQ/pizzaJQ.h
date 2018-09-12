@@ -9,8 +9,8 @@
 #include "../pizzaPadre/pizzaPadre.h"
 
 class pizzaJQ : public pizzaPadre {
-public:
-    void fnEcharJamon();
+private:
+    void fnEcharJamonJQ();
 
 };
 

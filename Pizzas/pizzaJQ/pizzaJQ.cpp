@@ -6,8 +6,8 @@
 #include <unistd.h>
 
 
-void fnEcharJamon(){
-    int iTimer = 10;
+void fnEcharJamonJQ(){
+    int iTimer = 13;
     cout << "Agregando el Jamon";
     while (iTimer != 0){
         cout << ". "<<flush;

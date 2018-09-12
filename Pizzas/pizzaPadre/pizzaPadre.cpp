@@ -10,7 +10,7 @@ pizzaPadre ::pizzaPadre() {
 }
 
 void pizzaPadre::fnPrepararLaMasa(){
-    int iTimer = 10;
+    int iTimer = 30;
     cout << "Preparando la masa";
     while (iTimer != 0){
         cout << ". "<<flush;
@@ -43,7 +43,7 @@ void pizzaPadre::fnEcharQueso(){
 }
 
 void pizzaPadre::fnHornearPizza(){
-    int iTimer = 10;
+    int iTimer = 15;
     cout << "Horneando";
     while (iTimer != 0){
         cout << ". "<<flush;
@@ -54,7 +54,7 @@ void pizzaPadre::fnHornearPizza(){
 }
 
 void pizzaPadre::fnServir(){
-    int iTimer = 10;
+    int iTimer = 5;
     cout << "Sirviendo la Pizza";
     while (iTimer != 0){
         cout << ". "<<flush;
@@ -63,3 +63,7 @@ void pizzaPadre::fnServir(){
     }
     cout << " Disfrute!"<<endl;
 }
+
+void pizzaPadre::fnHacerPizza(){
+
+};

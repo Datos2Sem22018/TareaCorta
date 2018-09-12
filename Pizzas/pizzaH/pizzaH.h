@@ -10,7 +10,7 @@
 
 class pizzaH : public pizzaPadre {
 
-public:
+private:
     void fnEhcharPinia();
     void fnEcharJamon();
 

@@ -4,14 +4,11 @@
 #include "Pizzas/pizzaV/pizzaV.h"
 
 int main() {
-    pizzaPadre pz;
-    pz.fnPrepararLaMasa();
 
 
     pizzaS ps1;
-    ps1.fnPrepararLaMasa();
+    ps1.fnHacerPizza();
 
-    pizzaV pv1;
-    pv1.fnPrepararLaMasa();
+
     return 0;
 }

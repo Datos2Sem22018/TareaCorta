@@ -20,11 +20,15 @@ protected:
 
 public:
     pizzaPadre();
+    virtual void fnHacerPizza();
+
+protected:
     void fnPrepararLaMasa();
     void fnPonerPastaTomate();
     void fnEcharQueso();
     void fnHornearPizza();
     void fnServir();
+
 
 
 };

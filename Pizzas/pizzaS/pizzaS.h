@@ -10,10 +10,13 @@
 
 class pizzaS : public pizzaPadre {
 
-public:
+private:
     void fnEcharCarne();
     void fnEcharCebollayChile();
     void fnAgregarJamon();
+
+public:
+    void fnHacerPizza() override ;
 };
 
 

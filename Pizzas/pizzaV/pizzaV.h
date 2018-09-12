@@ -10,7 +10,7 @@
 
 class pizzaV : public pizzaPadre{
 
-public:
+private:
     void fnEcharAceitunas();
     void fnEcharHongos();
     void fnEcharCebollayChile();
